@@ -1,3 +1,4 @@
+# DEPRECATED!! Working on a webpack plugin -> much more efficent.
 # JsDoc loader for [webpack](http://webpack.github.io/)
 
 ## Install
