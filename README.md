@@ -1,4 +1,4 @@
-# DEPRECATED!! Working on a webpack plugin -> much more efficent.
+# DEPRECATED!! Please use the [JsDoc Webpack Plugin](https://github.com/tfiwm/jsdoc-webpack-plugin) instead of the loader.
 # JsDoc loader for [webpack](http://webpack.github.io/)
 
 ## Install
